@@ -1,0 +1,15 @@
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/bin/Debug/net7.0/simple-block-chain
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/bin/Debug/net7.0/simple-block-chain.deps.json
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/bin/Debug/net7.0/simple-block-chain.runtimeconfig.json
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/bin/Debug/net7.0/simple-block-chain.dll
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/bin/Debug/net7.0/simple-block-chain.pdb
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/simple-block-chain.csproj.AssemblyReference.cache
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/simple-block-chain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/simple-block-chain.AssemblyInfoInputs.cache
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/simple-block-chain.AssemblyInfo.cs
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/simple-block-chain.csproj.CoreCompileInputs.cache
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/simple-block-chain.dll
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/refint/simple-block-chain.dll
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/simple-block-chain.pdb
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/simple-block-chain.genruntimeconfig.cache
+/Users/hashanm/Documents/Repos/simple-block/simple-block-chain/obj/Debug/net7.0/ref/simple-block-chain.dll
